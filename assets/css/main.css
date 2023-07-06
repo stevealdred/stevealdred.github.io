@@ -3327,3 +3327,9 @@ input, select, textarea {
 			}
 
 		}
+pre code {
+  background-color: #eeeeee;
+  border: 1px solid #999;
+  /*display: block;*/
+  padding: 20px;
+}
